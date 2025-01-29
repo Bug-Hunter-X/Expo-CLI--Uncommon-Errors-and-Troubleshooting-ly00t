@@ -1,0 +1,1 @@
+This error typically occurs when there's a mismatch between the Expo CLI version and the project's configuration, particularly the `expo` version specified in your `package.json` file.  It can also be caused by issues with dependencies or incorrect project setup.
